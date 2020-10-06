@@ -1,0 +1,8 @@
+C:\Users\nadabi\source\repos\.NetCoreSample\NetCoreSample\ClassLibrary.Core\bin\Debug\netcoreapp3.1\ClassLibrary.Core.deps.json
+C:\Users\nadabi\source\repos\.NetCoreSample\NetCoreSample\ClassLibrary.Core\bin\Debug\netcoreapp3.1\ClassLibrary.Core.dll
+C:\Users\nadabi\source\repos\.NetCoreSample\NetCoreSample\ClassLibrary.Core\bin\Debug\netcoreapp3.1\ClassLibrary.Core.pdb
+C:\Users\nadabi\source\repos\.NetCoreSample\NetCoreSample\ClassLibrary.Core\obj\Debug\netcoreapp3.1\ClassLibrary.Core.AssemblyInfoInputs.cache
+C:\Users\nadabi\source\repos\.NetCoreSample\NetCoreSample\ClassLibrary.Core\obj\Debug\netcoreapp3.1\ClassLibrary.Core.AssemblyInfo.cs
+C:\Users\nadabi\source\repos\.NetCoreSample\NetCoreSample\ClassLibrary.Core\obj\Debug\netcoreapp3.1\ClassLibrary.Core.csproj.CoreCompileInputs.cache
+C:\Users\nadabi\source\repos\.NetCoreSample\NetCoreSample\ClassLibrary.Core\obj\Debug\netcoreapp3.1\ClassLibrary.Core.dll
+C:\Users\nadabi\source\repos\.NetCoreSample\NetCoreSample\ClassLibrary.Core\obj\Debug\netcoreapp3.1\ClassLibrary.Core.pdb
